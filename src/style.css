@@ -1,0 +1,26 @@
+/* styles.css (o tu archivo de estilos personalizados) */
+
+/* Estilos para las cards de los contactos */
+.contacto-card {
+  border: 2px solid #007bff; /* Color del borde */
+  border-radius: 10px; /* Bordes redondeados */
+  padding: 10px;
+  margin-bottom: 20px;
+  background-color: #f8f9fa; /* Color de fondo */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra ligera */
+}
+
+/* Estilo para el encabezado de la card */
+.contacto-card-header {
+  font-weight: bold;
+  font-size: 1.2rem;
+  color: #007bff; /* Color del encabezado */
+}
+
+/* Estilo para los detalles del contacto */
+.contacto-card-details {
+  font-size: 0.9rem;
+  margin-top: 5px;
+}
+
+/* Otros estilos si es necesario */
